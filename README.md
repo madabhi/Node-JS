@@ -2,7 +2,7 @@
     <p>This repository contains directories that demonstrate how to set up a server using Node.js, how to use Express.js as a framework for building web applications, and how to use various render engines to render dynamic views. Each directory includes code samples and a README file with instructions on how to use the code.</p>
     <p>Links to the directories:</p>
     <ul>
-      <li><a href="https://github.com/madabhi/Node-JS/tree/main/1%20Initializing%20Server">Node.js Server Initialization</a></li>
+      <li><h2><a href="https://github.com/madabhi/Node-JS/tree/main/1%20Initializing%20Server">Node.js Server Initialization</a></h2</li>
       <li><a href="https://github.com/madabhi/Node-JS/tree/main/2%20Express%20JS%20Learning">Express.js Framework</a></li>
       <li><a href="https://github.com/madabhi/Node-JS/tree/main/3%20Handlebars%20and%20Pugs">Render Engines</a></li>
     </ul>   
