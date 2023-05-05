@@ -1,17 +1,15 @@
-Github Repository: Node.js Server Setup with Express.js and Render Engines
-This repository contains three directories that demonstrate how to initialize a server using Node.js, how to use Express.js as a framework for building web applications, and how to use various render engines such as Pug, Handlebars, and EJS to render dynamic views.
-
-Directory 1: Node.js Server Initialization
-The Node-Server-Init directory contains a basic setup for initializing a server using Node.js. It includes a server.js file that creates a server using the http module, and a package.json file with the necessary dependencies.
-
-Link: Node-Server-Init
-
-Directory 2: Express.js Framework
-The Express-Setup directory contains a basic setup for building web applications using the Express.js framework. It includes a server.js file with basic routes and middleware, and a package.json file with the necessary dependencies.
-
-Link: Express-Setup
-
-Directory 3: Render Engines
-The Render-Engines directory contains examples of how to use various render engines such as Pug, Handlebars, and EJS to render dynamic views. It includes separate directories for each render engine with examples of how to use them in an Express.js application.
-
-Link: Render-Engines
+<h1>Github Repository: Node.js Server Setup with Express.js and Render Engines</h1>
+    <p>This repository contains directories that demonstrate how to set up a server using Node.js, how to use Express.js as a framework for building web applications, and how to use various render engines to render dynamic views. Each directory includes code samples and a README file with instructions on how to use the code.</p>
+    <p>Links to the directories:</p>
+    <ul>
+      <li><a href="https://github.com/<username>/<repository-name>/tree/main/Node-Server-Init">Node.js Server Initialization</a></li>
+      <li><a href="https://github.com/<username>/<repository-name>/tree/main/Express-Setup">Express.js Framework</a></li>
+      <li><a href="https://github.com/<username>/<repository-name>/tree/main/Render-Engines">Render Engines</a></li>
+      <li>...Add any future directories here...</li>
+    </ul>
+    <h2>Usage</h2>
+    <p>To use this repository, simply clone or download the repository and navigate to the desired directory. Each directory contains a <code>README.md</code> file with instructions on how to use the code and run the application.</p>
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License - see the <code>LICENSE</code> file for details.</p>
+    <h2>Contributing</h2>
+    <p>Contributions to this project are welcome. Please see the <code>CONTRIBUTING.md</code> file for guidelines.</p>
