@@ -5,8 +5,6 @@
       <li><a href="https://github.com/madabhi/Node-JS/tree/main/1%20Initializing%20Server">Node.js Server Initialization</a></li>
       <li><a href="https://github.com/madabhi/Node-JS/tree/main/2%20Express%20JS%20Learning">Express.js Framework</a></li>
       <li><a href="https://github.com/madabhi/Node-JS/tree/main/3%20Handlebars%20and%20Pugs">Render Engines</a></li>
-
-    </ul>
-   
+    </ul>   
     <h2>Contributing</h2>
-    <p>Contributions to this project are welcome. 
+    <p>Contributions to this project are welcome. <p>
